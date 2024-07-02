@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning development at Syntax Institute - Berlin
 - 💞️ I’m looking to collaborate on android and iOS Pro
 - 📫 How to reach me : Moutazbaaj@gmail.com
-- 😄 Pronouns: Human :)
 - ⚡ Fun fact: drummer and bike rider
 
 <!---
