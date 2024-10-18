@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Moutazbaaj
 - 👀 I’m interested in programming developing and software engineering
-- 💞️ I’m looking to collaborate on android and iOS Projects! 
+- 💞️ I’m looking to collaborate on android and iOS Projects!
+- 👨🏻‍💻 C++ / Swift / Kotlin
 - 📫 How to reach me : Moutazbaaj@gmail.com
 - ⚡ Fun fact: drummer and bike rider
+
 
 <!---
 Moutazbaaj/Moutazbaaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
