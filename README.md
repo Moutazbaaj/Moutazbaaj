@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming developing and software engineering
 - 💞️ I’m looking to collaborate on android and iOS Projects!
 - 👨🏻‍💻 C++ / Swift / Kotlin
-- 📫 How to reach me : Moutazbaaj@gmail.com
+- 📫 How to reach me : Moutazbaaj@gmail.com / http://linkedin.com/in/moutaz-baaj-464a72304
 - ⚡ Fun fact: drummer and bike rider
 
 
