@@ -8,7 +8,7 @@
   
 - ⚡ Fun fact: drummer, bike rider and plant enthusiast
 
-- check out my last release: 
+- check out my last release on Apple store: 
 
     Narravo
 
