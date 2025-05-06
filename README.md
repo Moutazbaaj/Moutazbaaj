@@ -4,11 +4,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate software and hardware developer specializing in mobile app development for iOS and Android. With a solid foundation in C++, Swift, and Kotlin, I build seamless, efficient, and user-friendly applications—as well as IoT and embedded systems powered by microcontrollers.
-
----
 ## 🔧 Skills & Technologies
 
 - **Languages**: Swift, Kotlin, C++
