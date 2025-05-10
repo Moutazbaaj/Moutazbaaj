@@ -9,9 +9,7 @@
 - **Languages**: Swift, Kotlin, C++
 - **Mobile**: SwiftUI, Jetpack Compose, Firebase, REST APIs
 - **Embedded/IoT**: ESP32, Arduino, MQTT, BLE, sensors
-- **Tools**: Xcode, Android Studio, PlatformIO, Figma, GitHub CI/CD, Terminal/Bash
-- **Certifications**: Mobile Dev (IHK, 1.3), App Dev (Syntax Institute, 2,300 hrs)
-  
+- **Tools**: Xcode, Android Studio, PlatformIO, Figma, GitHub CI/CD, Terminal/Bash  
 ---
 
 ## 📱 Featured Project
