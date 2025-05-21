@@ -4,14 +4,6 @@
 
 ---
 
-## 🔧 Skills & Technologies
-
-- **Languages**: Swift, Kotlin, C++
-- **Mobile**: SwiftUI, Jetpack Compose, Firebase, REST APIs
-- **Embedded/IoT**: ESP32, Arduino, MQTT, BLE, sensors
-- **Tools**: Xcode, Android Studio, PlatformIO, Figma, GitHub CI/CD, Terminal/Bash  
----
-
 ## 📱 Featured Project
 
 ### [Narravo – From Text to Speech in One Touch](https://apps.apple.com/de/app/narravo/id6742332734)
