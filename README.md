@@ -17,6 +17,7 @@ A feature-rich TTS and OCR iOS app that transforms text from documents, images, 
 
 ## 📫 Connect with Me
 
+<!---
 <table align="right">
   <tr>
     <td>
@@ -27,8 +28,7 @@ A feature-rich TTS and OCR iOS app that transforms text from documents, images, 
     </td>
   </tr>
 </table>
-
-
+--->
 - 📧 Email: [moutazbaaj@gmail.com](mailto:moutazbaaj@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/moutaz-baaj-464a72304](https://linkedin.com/in/moutaz-baaj-464a72304)  
 - 🧑‍💻 portfolio: [https://moutazbaaj.framer.website/#top](https://moutazbaaj.framer.website/#top)
