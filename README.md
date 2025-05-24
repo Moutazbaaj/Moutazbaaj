@@ -36,13 +36,6 @@ A feature-rich TTS and OCR iOS app that transforms text from documents, images, 
 
   
 ---
-
-## ⚡ Fun Fact
-
-Outside of coding, I'm a drummer, an avid bike rider, and a plant enthusiast 🌱🥁🚴
-
----
-
 <!---
 Moutazbaaj/Moutazbaaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
