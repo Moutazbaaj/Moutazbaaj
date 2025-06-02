@@ -9,7 +9,7 @@
 ## 📱 Featured Project
 
 ### [Narravo – From Text to Speech in One Touch](https://apps.apple.com/de/app/narravo/id6742332734)
-A feature-rich TTS and OCR iOS app that transforms text from documents, images, and scans into clear spoken words.
+A feature-rich TTS and OCR iOS app that transforms text from documents, images, PDF's and scans into clear spoken words.
 > 💡 Now available on the App Store!
 
 ---
