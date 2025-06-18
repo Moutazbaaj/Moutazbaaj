@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Moutaz
 
-🎓 Certified Mobile App Developer | 📱 iOS & Android Engineer | ⚙️ IoT & Embedded Systems Developer
+🎓 Certified Mobile App Developer | 📱 iOS & Android Developer | ⚙️ IoT & Embedded Systems Engineer
 
 
 ---
